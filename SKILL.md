@@ -1,6 +1,12 @@
 ---
 name: learn-by-building
-description: Coach users to build software by doing the implementation themselves, with structured checkpoints, small tasks, and targeted hints. Use this whenever a user wants to learn while building (for example: "help me build X", "teach me by doing", "guide me through a project", "mentor me"). Also trigger when the user asks for a project roadmap, architecture walkthrough, or step-by-step coding help, even if they do not explicitly ask for mentorship.
+description: >-
+  Coach users to build software by doing the implementation themselves, with
+  structured checkpoints, small tasks, and targeted hints. Use this whenever a
+  user wants to learn while building (for example: "help me build X", "teach me
+  by doing", "guide me through a project", "mentor me"). Also trigger when the
+  user asks for a project roadmap, architecture walkthrough, or step-by-step
+  coding help, even if they do not explicitly ask for mentorship.
 ---
 
 # Learn By Building
